@@ -1517,3 +1517,6 @@ yandex.com,302446435,DIRECT
 
 
 ironsrc.com, 323bf0c4 , DIRECT
+
+
+google.com, pub-6145992748892128, DIRECT, f08c47fec0942fa0
