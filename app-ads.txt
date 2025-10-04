@@ -1,3 +1,4 @@
+google.com, pub-6145992748892128, DIRECT, f08c47fec0942fa0
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
